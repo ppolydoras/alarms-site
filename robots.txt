@@ -1,11 +1,11 @@
 # Robots.txt for SecureGuard website
-# https://ppolydoras.github.io/alarms-site/
+# https://alarm-systems.gr/
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://ppolydoras.github.io/alarms-site/sitemap.xml
+Sitemap: https://alarm-systems.gr/sitemap.xml
 
 # Disallow 404 page from indexing (handled by meta robots in HTML)
 Disallow: /404.html
