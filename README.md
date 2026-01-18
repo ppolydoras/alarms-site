@@ -249,3 +249,4 @@ This project is provided as-is for demonstration purposes. All content is placeh
 ---
 
 **SecureGuard** - Ασφάλεια που εμπιστεύεστε, τεχνολογία που προστατεύει.
+
