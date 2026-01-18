@@ -522,6 +522,20 @@ body {
   color: #ffffff;
 }
 
+/* Ensure links on light backgrounds meet contrast requirements */
+.bg-light a,
+.card.bg-light a {
+  color: #1e3a5f;
+  text-decoration: underline;
+}
+
+.bg-light a:hover,
+.bg-light a:focus,
+.card.bg-light a:hover,
+.card.bg-light a:focus {
+  color: #0f2744;
+}
+
 .footer-links {
   list-style: none;
   padding: 0;
