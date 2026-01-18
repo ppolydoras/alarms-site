@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">SecureGuard Logo</title>
+  <!-- Shield icon -->
+  <path d="M25 5L5 12V24C5 35.5 13.5 45.5 25 48C36.5 45.5 45 35.5 45 24V12L25 5Z" fill="#1e3a5f" stroke="#2c5282" stroke-width="2"/>
+  <path d="M25 10L10 15V24C10 32.8 16.5 40.5 25 43C33.5 40.5 40 32.8 40 24V15L25 10Z" fill="#2c5282"/>
+  <!-- Checkmark -->
+  <path d="M18 24L23 29L33 19" stroke="#48bb78" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Company name -->
+  <text x="55" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#1e3a5f">SECUREGUARD</text>
+  <text x="55" y="38" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#4a5568">Συστήματα Ασφαλείας</text>
+</svg>
