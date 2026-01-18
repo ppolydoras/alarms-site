@@ -7,6 +7,6 @@
   <!-- Checkmark -->
   <path d="M18 24L23 29L33 19" stroke="#48bb78" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Company name -->
-  <text x="55" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#1e3a5f">SECUREGUARD</text>
+  <text x="55" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#1e3a5f">SAFEGUARD</text>
   <text x="55" y="38" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#4a5568">Συστήματα Ασφαλείας</text>
 </svg>
