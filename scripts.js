@@ -1,5 +1,5 @@
 /**
- * SafeGuard - Minimal JavaScript
+ * SecureGuard - Minimal JavaScript
  * Accessibility-focused interactions
  * WCAG 2.2 AA compliant
  */
